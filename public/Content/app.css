@@ -1,0 +1,7 @@
+/* custom css goes here */
+/* Rounded border */
+hr.rounded {
+    border-top: 3px solid #bbb;
+    border-radius: 5px;
+    background-repeat: repeat-y;
+}
